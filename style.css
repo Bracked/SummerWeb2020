@@ -1,0 +1,86 @@
+html,body{
+  font-size: 14px;
+  font-family: Arial;
+  font-weight: normal;
+}
+body{margin: 54px 0px 0px 52px;}
+.container{
+  min-width: 1144px;
+}
+.about{}
+.about__header{
+
+color: #445161;
+font-size: 30px;
+line-height: 30px;
+}
+.about__text{}
+  .about__text p{
+line-height: 25px;
+  }
+
+.option{}
+.option__header{
+  margin-top: 30px ;
+color: #445161;
+font-size: 25px;
+line-height: 30px;
+}
+.option__text {
+line-height: 14px;
+}
+.option__text p:first-child{
+  font-weight: bold;
+}
+.option__text p:last-child{
+  color: #ff0000;
+
+}
+.home-work{
+  margin: 22px 0px 25px 0px;
+}
+.home-work__header{color: #445161;
+font-size: 20px;
+line-height: 30px;}
+.home-work__text{
+  line-height: 14px;
+}
+.home-work__text p:first-child{
+  text-indent:65%;
+}
+.home-work__text p:nth-child(2){
+ text-transform:uppercase;
+
+}
+.home-work__text p:nth-child(3){
+font-style:italic;
+}
+.home-work__text p:nth-child(4){
+  text-decoration: underline;
+}
+.home-work__text p:last-child{
+  text-align: center;
+}
+.property{}
+.property__header{
+font-size:24px;
+line-height: 24px;
+
+}
+.property__text{
+
+
+
+}
+.property__text p:first-child{
+  text-decoration: line-through;
+}
+.property__text p:nth-child(2){
+  font-family: "Times New Roman PSMT";
+
+  line-height: 14px;
+}
+
+.property__text p:last-child{
+  text-shadow: 1px 1px 0.5px #000;
+}
